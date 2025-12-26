@@ -1,5 +1,5 @@
 THIS IS WHATSUP CODE:
-
+train status
 Author: Arulprasath
 
 1. Profile page code
@@ -47,3 +47,6 @@ Author: Arulprasath
 22. Adding flight games [03-Jul-2021]
 
 23. Addintg this line for Practising for Fork concept [26-12-2026]
+
+
+17 sharing photos & videos with out reducing the resolution
