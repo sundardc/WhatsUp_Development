@@ -34,7 +34,9 @@ Author: Arulprasath
 
 16. Adding new feature in status Hiding
 
-17. Adding Dark Mode Feature so that user can do the late night chats easily  
+17. Adding Dark Mode Feature so that user can do the late night chats easily 
+
+17A. sharing photos & videos with out reducing the resolution
 
 18. Thanks Arul sir
 
@@ -47,6 +49,3 @@ Author: Arulprasath
 22. Adding flight games [03-Jul-2021]
 
 23. Addintg this line for Practising for Fork concept [26-12-2026]
-
-
-17 sharing photos & videos with out reducing the resolution
